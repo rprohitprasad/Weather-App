@@ -10,3 +10,8 @@ This accurate weather app allows to find out a detailed forecast wherever you ar
 - Wind speed and direction
 - Pressure and precipitation information
 - Sunrise/sunset time
+
+### Get an API key from OpenWeatherMap
+For retrieving data we will use OpenWeatherAPI, and we will be needing an API key for it. Before proceeding please get an API key by registering. You can either follow the attached video above or steps below.
+
+Create a New Account from here.
